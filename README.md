@@ -1,6 +1,6 @@
 # PDF Reader
 
-A fast, lightweight, native PDF viewer written in **Rust** — no browser, no Electron, no Java. Just open a PDF and read it.
+A fast, lightweight, native PDF viewer written in **Rust** — no browser, no Electron, no Java. Just open a PDF and read it. Built using **Hayro** (pure-Rust PDF rasterizer) and **egui/eframe** (immediate-mode GUI).
 
 > Built for everyday reading: continuous scrolling like a browser, single-page mode like Adobe Reader, and edge-aware navigation that scrolls inside a page before jumping to the next one.
 
